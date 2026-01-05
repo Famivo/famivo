@@ -1,16 +1,34 @@
-## Hi there 👋
+# Famivo
 
-<!--
-**Famivo/famivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Famivo** ist ein digitaler Familien-Assistent (Web-App), der typische Alltags- und Behörden-/Versicherungs-/Schriftverkehr-Probleme **einfach** macht:  
+Du beschreibst dein Problem oder lädst ein Schreiben/Fotos hoch → Famivo erklärt dir **verständlich** was es bedeutet und was du **als Nächstes** tun solltest.
 
-Here are some ideas to get you started:
+## Status (MVP)
+✅ Fokus im ersten MVP:
+- Problem/Schreiben verstehen (einfach erklärt)
+- Schritt-für-Schritt „Nächste Schritte“
+- Text-/E-Mail-Vorschläge (Copy-Paste)
+- Kategorien (z. B. Lieferung, Rückerstattung, Widerruf, Rechnung, Sonstiges)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚧 Noch nicht im MVP:
+- Login / Familien-Accounts / Teilen in der Familie
+- Vollautomatische Formulare/Schadensmeldungen
+- Integrationen (Versicherung, Behörden, Steuer-Tools)
+- App-Store Version (iOS/Android)
+
+## Warum Famivo?
+Familien haben 1000 Themen gleichzeitig: Termine, Schule, Haushalt, Geld, Versicherungen, Behörden, Streitfälle, Planung.  
+Famivo reduziert Stress durch klare, kurze, umsetzbare Antworten.
+
+## Roadmap (kurz)
+1) MVP Web-App live + Feedback sammeln  
+2) Upload von Schreiben/Fotos + smartere Erkennung  
+3) Familien-Account & Teilen (Abo)  
+4) Module: Versicherung/Schäden, Trennung, Hochzeit, Schichtplan, Haushalt, Einkaufsliste  
+5) Mobile App (optional)
+
+## Tech (Start)
+- Next.js
+- TypeScript
+- TailwindCSS
+- Deployment: Vercel
